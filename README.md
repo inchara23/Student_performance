@@ -11,33 +11,7 @@ This project is a Flask-based web application that predicts a student’s Math s
 
   ## Project Structure
 
-  STUDENT_PERFORMANCE_END_TO_END/
-│
-├── artifacts/ # Stores raw and processed CSV files
-│ ├── train.csv
-│ └── test.csv
-│
-├── logs/ # Logs from training/inference
-├── notebook/ # Jupyter Notebooks (exploration/training)
-│
-├── src/
-│ ├── components/ # Data ingestion, model training etc.
-│ ├── pipeline/ # Prediction pipeline logic
-│ ├── exception.py # Custom exceptions
-│ ├── logger.py # Logging functions
-│ └── utils.py # Utility functions
-│
-├── templates/
-│ ├── index.html # Landing page
-│ └── homee.html # Prediction form page (consider renaming)
-│
-├── app.py # Flask app entrypoint
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── setup.py # (Optional) For pip install
-├── .gitignore # Hides unnecessary files from Git
-└── venv/ # Python virtual environment
-
+![image](https://github.com/user-attachments/assets/09780553-6daf-4bc6-94ed-f833e2427154)
 
 ## Model Details
 
