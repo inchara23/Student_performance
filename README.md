@@ -69,7 +69,8 @@ Home Page
 
 Prediction
 
-![image](https://github.com/user-attachments/assets/1f43be1f-604e-483a-8853-61f9eb51e4f3)
+![image](https://github.com/user-attachments/assets/19c67050-988a-472a-be41-1510101d38ae)
+
 
 
 
